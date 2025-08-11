@@ -1,8 +1,5 @@
-e can do python inthis 
+we can do python inthis 
 each and every program
-
-
-
 
 
 
